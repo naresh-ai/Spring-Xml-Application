@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root><Employees><jobTitleName>Developer
+</jobTitleName>
+    <firstName>Naresh
+</firstName>
+    <lastName>Petkar
+</lastName>
+    <emailAddress>
+    naresh@143
+</emailAddress>
+    <phoneNumber>909034242
+</phoneNumber>
+    <preferredFullName>NaresTech
+</preferredFullName>
+    <region>NDA</region>
+    <userId>Naresh
+</userId><employeeCode>101</employeeCode>
+
+</Employees></root>
